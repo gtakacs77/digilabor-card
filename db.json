@@ -4,7 +4,7 @@
         "structure": "1.0",
         "version": "1.0.0",
         "checksum": "123456",
-        "validTo": "2022.06.02 10:00",
+        "validTo": "2022-06-02 10:00:00",
         "i18n": {
             "languages": [
                 {"hu":"Magyar"},
