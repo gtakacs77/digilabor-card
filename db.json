@@ -9,24 +9,71 @@
         "hu", "en"
       ],
       "default": "hu"
-    }
+    },
+    "privacyStatement":"https://www.digilabor.net"
   },
   "products": [
     {
       "id": 1,
       "name" : [
-        "hu": "Hagyományos képeslap",
-        "en": "Normal postcard"
+      "hu": "Hagyományos képeslap",
+      "en": "Normal postcard"
       ],
-      "sizelabel" : [
+      "size" : [
         "hu": "148x105mm (A6)",
         "en": "148x105mm (A6)"
       ],
       "description" : [
-        "hu": "Hagyományos képeslap, egik oldalán fotóval, a hátoldalán tetszőleges szöveggel, borítékban címezve és feladva.",
+        "hu": "Hagyományos képeslap, egyik oldalán fotóval, a hátoldalán tetszőleges szöveggel, borítékban címezve és feladva.",
         "en": "ENGLISH hagyományos képeslap, egik oldalán fotóval, a hátoldalán tetszőleges szöveggel, borítékban címezve és feladva."
       ],
-      
-    }
+      "decorationimage":"https://valami.com/image.jpg",
+      "dimension": {
+        "width": 148,
+        "height": 105
+      },
+      "resolution": {
+        "printing" : 300,
+        "highQuality": 225,
+        "lowQuality": 120
+      },
+      "URL":"https://www.digilabor.net",
+      "promotion":{
+        "isPromotion":false,
+        "title":"nothing"
+      },
+      "price": 1200
+    },
+    {
+      "id": 1,
+      "name" : [
+      "hu": "Francia képeslap",
+      "en": "French postcard"
+      ],
+      "size" : [
+        "hu": "210x99mm",
+        "en": "210x99mm"
+      ],
+      "description" : [
+        "hu": "Francia képeslap, egyik oldalán fotóval, a hátoldalán tetszőleges szöveggel, borítékban címezve és feladva.",
+        "en": "ENGLISH francia képeslap, egik oldalán fotóval, a hátoldalán tetszőleges szöveggel, borítékban címezve és feladva."
+      ],
+      "decorationimage":"https://valami.com/image.jpg",
+      "dimension": {
+        "width": 210,
+        "height": 99
+      },
+      "resolution": {
+        "printing" : 300,
+        "highQuality": 225,
+        "lowQuality": 120
+      },
+      "URL":"https://www.digilabor.net",
+      "promotion":{
+        "isPromotion":false,
+        "title":"nothing"
+      },
+      "price": 1450
+    },
   ]
 }
