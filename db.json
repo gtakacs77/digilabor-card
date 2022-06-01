@@ -1,0 +1,32 @@
+{
+  "package":{
+    "name":"DigiLabor - Digicard data package",
+    "structure":"1.0",
+    "version":"1.0.0",
+    "checksum":"123456",
+    "i18n": {
+      "languages": [
+        "hu", "en"
+      ],
+      "default": "hu"
+    }
+  },
+  "products": [
+    {
+      "id": 1,
+      "name" : [
+        "hu": "Hagyományos képeslap",
+        "en": "Normal postcard"
+      ],
+      "sizelabel" : [
+        "hu": "148x105mm (A6)",
+        "en": "148x105mm (A6)"
+      ],
+      "description" : [
+        "hu": "Hagyományos képeslap, egik oldalán fotóval, a hátoldalán tetszőleges szöveggel, borítékban címezve és feladva.",
+        "en": "ENGLISH hagyományos képeslap, egik oldalán fotóval, a hátoldalán tetszőleges szöveggel, borítékban címezve és feladva."
+      ],
+      
+    }
+  ]
+}
