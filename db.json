@@ -7,8 +7,8 @@
         "validTo": "2022.06.02 10:00",
         "i18n": {
             "languages": [
-                "hu",
-                "en"
+                {"hu":"Magyar"},
+                {"en":"English"}
             ],
             "default": "hu"
         },
